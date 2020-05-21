@@ -1,0 +1,1 @@
+{"version":3,"file":"main.5a5dd5357b1106d9f556.bundle.js","sources":["webpack:///./src/helpers/createTranslate.js"],"sourcesContent":["import get from 'lodash/get'\nexport default (TABLE) => (key) => get(TABLE, key)\n"],"mappings":"AAAA","sourceRoot":""}
